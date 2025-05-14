@@ -1,6 +1,7 @@
 # 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석
 
 [Representation (japanese)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Representation%20(japanese).pdf) ➡️ 2022/02/21 in Kobe Univ. Takiguchi LAB
+[인포그래픽 (한국어)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Infographic.pdf)
 
 
 ## 📌 배경
