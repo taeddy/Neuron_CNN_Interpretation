@@ -1,12 +1,9 @@
 # 딥러닝 기반 신경세포 칼슘 이미징 데이터 분석
 
-진행기간: 2021.06 ~ 2022.02
-
-[Representation (japanese)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Representation%20(japanese).pdf) ➡️ 2022/02/21 in Kobe Univ. Takiguchi LAB
-
-[인포그래픽 (한국어)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Infographic.pdf)
-
-[Main Code](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Neuron_CNN_Interpretation.ipynb)
+- 진행기간: 2021.06 ~ 2022.02
+- [Representation (japanese)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Representation%20(japanese).pdf) ➡️ 2022/02/21 in Kobe Univ. Takiguchi LAB
+- [인포그래픽 (한국어)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Infographic.pdf)
+- [Main Code](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Neuron_CNN_Interpretation.ipynb)
 
 ---
 
@@ -80,14 +77,15 @@
 - 1회당 1개 또는 2개 세포 자극.
 - 각 프레임을 개별 데이터로 처리.
 
-### 4. 학습 방식
+### 4. 모델 학습 방식
 
 - 자극 세포 번호를 one-hot 라벨로 사용.
 - 손실 함수: Binary Cross Entropy Loss.
-- 데이터 증강 및 마스킹 처리 수행.
+- 데이터 확장 및 마스킹 처리 수행.
 
 ### 5. 이미지 유사도 측정
 
+- CAM 결과물을 비교하기 위한 장치
 - **ZNCC (Zero-mean Normalized Cross-Correlation)** 사용.
 - 이미지 간 유사도를 -1~1로 정량화.
 
