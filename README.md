@@ -3,9 +3,16 @@
 
 
 - 진행기간: 2021.06 ~ 2022.02
+- 진행인원: 4명
+- 담당역할: 데이터 정제/관리/라벨링, 인공지능 모델링/학습/검증/평가, 모델 해석
 - [Representation (japanese)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Representation%20(japanese).pdf) ➡️ 2022/02/21 in Kobe Univ. Takiguchi LAB
-- [인포그래픽 (한국어)](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Infographic.pdf)
 - [Main Code](https://github.com/taeddy/Neuron_CNN_Interpretation/blob/main/Neuron_CNN_Interpretation.ipynb)
+- <details>
+  <summary>인포그래픽 (한국어)</summary>
+  <div markdown="1">
+  <img src="https://github.com/user-attachments/assets/cdd25ad7-570d-4ff6-a6d3-0eb3988be6bc">
+  </div>
+  </details>
 
 ---
 
